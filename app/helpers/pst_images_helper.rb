@@ -1,0 +1,2 @@
+module PstImagesHelper
+end
